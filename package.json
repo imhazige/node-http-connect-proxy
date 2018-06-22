@@ -1,0 +1,34 @@
+{
+  "name": "http-connect-proxy",
+  "version": "1.0.0",
+  "description": "http proxy support http connect method",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imhazige/node-http-connect-proxy.git"
+  },
+  "keywords": [
+    "http",
+    "connect",
+    "proxy",
+    "heroku"
+  ],
+  "author": "imhazige",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imhazige/node-http-connect-proxy/issues"
+  },
+  "homepage": "https://github.com/imhazige/node-http-connect-proxy#readme",
+  "dependencies": {
+    "http-proxy": "^1.17.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "https-proxy-agent": "^2.2.1",
+    "ws": "^5.2.0"
+  }
+}
