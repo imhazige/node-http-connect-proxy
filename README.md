@@ -4,6 +4,8 @@ By using [node http proxy](https://github.com/nodejitsu/node-http-proxy), inspir
 
 
 ## Run the server
+`git clone https://github.com/imhazige/node-http-connect-proxy.git`  
+go to the project folder
 `npm install`  
 `npm start` or `node server.js`
 
