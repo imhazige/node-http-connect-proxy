@@ -21,4 +21,4 @@ by default, authentication is disabled.
 
 
 ## Warning!
-The Http connect proxy in anyway is on a HTTP protocol, it should be used to resolve problem like proxy across a DMZ, it unable to go across some other *wall.
+The Http connect proxy in anyway is on a HTTP protocol, it should be used to resolve problem like proxy across a DMZ, it unable to go across some other *wall. When you encounter error like `read ECONNRESET`, that the case.
